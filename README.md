@@ -1,4 +1,4 @@
-# mobx_bloc
+# GoogleMap app with mobx
 
 A new Flutter project.
 
